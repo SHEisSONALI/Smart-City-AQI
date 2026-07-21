@@ -43,3 +43,11 @@ We set out to build a **predictive model** that can estimate AQI using smart mob
    ```bash
    git clone https://github.com/SHEisSONALI/Smart-City-AQI.git
    cd aqi-prediction
+2. Installing Dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+4. Open the local URL (usually http://localhost:8501) to interact with the app.
+
