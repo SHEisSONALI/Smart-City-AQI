@@ -49,5 +49,7 @@ We set out to build a **predictive model** that can estimate AQI using smart mob
 3. Run the Streamlit app:
    ```bash
    streamlit run app.py
-4. Open the local URL (usually http://localhost:8501) to interact with the app.
 
+##  Authors
+Sonali Shekhawat, 
+ Maanvi Jangir
