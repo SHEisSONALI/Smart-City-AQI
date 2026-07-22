@@ -51,5 +51,5 @@ We set out to build a **predictive model** that can estimate AQI using smart mob
    streamlit run app.py
 
 ##  Authors
-Sonali Shekhawat 
-Maanvi Jangir
+Sonali Shekhawat, 
+ Maanvi Jangir
