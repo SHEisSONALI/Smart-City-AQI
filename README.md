@@ -49,3 +49,7 @@ We set out to build a **predictive model** that can estimate AQI using smart mob
 3. Run the Streamlit app:
    ```bash
    streamlit run app.py
+
+##  Authors
+Sonali Shekhawat 
+Maanvi Jangir
